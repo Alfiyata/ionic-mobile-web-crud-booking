@@ -1,4 +1,4 @@
-# Ionic Vue App
+# Ionic Vue App (Android) my Project CRUD
 
 This is an Ionic Vue application built with Vue 3, Ionic Framework, and TailwindCSS.
 
